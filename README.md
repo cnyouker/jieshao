@@ -1,4 +1,4 @@
-# ☯️ 循古排盘 (Xungu Paipan) 
+# ☯️ 循古排盘 ( https://cdndns.org ) 
 
 **纯正古法八字与六爻命理算法引擎**
 
@@ -26,4 +26,4 @@
 
 ---
 
-> **访问线上演示 / 官网：** [https://cdndns.org/](https://cdndns.org/)
+> **循古排盘：** [https://cdndns.org/](https://cdndns.org/)
