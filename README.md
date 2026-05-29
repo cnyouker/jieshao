@@ -1,4 +1,4 @@
-# ☯️ 循古排盘 ( https://cdndns.org ) 
+# ☯️ 循古排盘 ( https://xungufa.com ) 
 
 **纯正古法八字与六爻命理算法引擎**
 
@@ -26,4 +26,4 @@
 
 ---
 
-> **循古排盘：** [https://cdndns.org/](https://cdndns.org/)
+> **循古排盘：** [https://xungufa.com/](https://xungufa.com/)
